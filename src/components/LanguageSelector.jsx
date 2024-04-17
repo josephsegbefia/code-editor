@@ -33,7 +33,7 @@ const LanguageSelector = ({ language, onSelect }) => {
             ))
           }
         </MenuList>
-</Menu>
+      </Menu>
     </Box>
   )
 }
